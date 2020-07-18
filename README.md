@@ -1,1 +1,1 @@
-![404](assets/404.png)
+![404](https://github.com/ludeeus/ludeeus/raw/main/assets/404.png)
